@@ -8,7 +8,6 @@ import {
     onAuthStateChanged
 } from "firebase/auth";
 
-
 const firebaseConfig = {
     apiKey: "AIzaSyBr7M8PAMuuOlY0npGrKnGc0OhJPJPNK9E",
     authDomain: "angelstore-4dca8.firebaseapp.com",
