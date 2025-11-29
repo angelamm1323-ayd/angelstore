@@ -162,7 +162,7 @@
 
 				<div class="flex space-x-6 mb-8">
 					<a
-						href="https://wa.me/573189746650"
+						href="https://wa.me/573146608596"
 						target="_blank"
 						rel="noopener noreferrer"
 						class="text-pink-600 hover:text-pink-800 text-xl transition-colors"
@@ -189,7 +189,7 @@
 						<i class="fab fa-tiktok"></i>
 					</a>
 					<a
-						href="https://www.whatsapp.com/catalog/573146608596"
+						href="https://www.facebook.com/profile.php?id=61577089975240&mibextid=wwXIfr&rdid=gXekY2YW3gmfEvaA&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F14EZQveNS6L%2F%3Fmibextid%3DwwXIfr#"
 						target="_blank"
 						rel="noopener noreferrer"
 						class="text-pink-600 hover:text-pink-800 text-xl transition-colors"
