@@ -8,14 +8,14 @@ import {
     onAuthStateChanged
 } from "firebase/auth";
 
-// Your web app's Firebase configuration
+
 const firebaseConfig = {
-    apiKey: "AIzaSyBJxvBWM8xcqUkvXuHTwMzhPZk9QPUSVlA",
-    authDomain: "demonstore-fa245.firebaseapp.com",
-    projectId: "demonstore-fa245",
-    storageBucket: "demonstore-fa245.firebasestorage.app",
-    messagingSenderId: "499405069963",
-    appId: "1:499405069963:web:7525eb6a4dac089fc8be8e"
+    apiKey: "AIzaSyBr7M8PAMuuOlY0npGrKnGc0OhJPJPNK9E",
+    authDomain: "angelstore-4dca8.firebaseapp.com",
+    projectId: "angelstore-4dca8",
+    storageBucket: "angelstore-4dca8.firebasestorage.app",
+    messagingSenderId: "608369684468",
+    appId: "1:608369684468:web:0d0977a937b6d0b36613a1"
 };
 
 // Initialize Firebase
